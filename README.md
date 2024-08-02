@@ -13,11 +13,12 @@
 
 `My github` : <https://github.com/nhatphongdev/>
 
-####Inline code
+#### Inline code
 
 `python main.py`.
 
 Hoặc chạy tệp `run.bat`.
 
-####Cảm ơn bạn đã dùng thử source của mình
-###Hết.
+#### Cảm ơn bạn đã dùng thử source của mình
+
+### Hết.
